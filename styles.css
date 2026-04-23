@@ -19,6 +19,7 @@
 }
 
 * {
+  -webkit-tap-highlight-color: transparent;
   font-family: 'Poppins', sans-serif;
   margin: 0;
   padding: 0;
